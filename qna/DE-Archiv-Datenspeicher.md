@@ -42,6 +42,7 @@ In der Praxis wird es wohl kaum zu verhindern sein, personenbezogene Daten zu ve
 * Azure-Region France-Central (a107, a108)
 * Equinix-Datacenter Amsterdam (nl18) (https://www.equinix.com/locations/europe-colocation/netherlands-colocation/amsterdam-data-centers/)
 * RRZ-Datacenter Raaba / Graz (at11) (https://www.rrz.co.at/)
+* DATEV eG (https://www.datev.de/web/de/media/datev_de/pdf/sonstige_pdfs/337181_pims19_2022-04-13_englisch_logo_pdf.pdf)
 
 
 ### Wo werden die Daten gespeichert
